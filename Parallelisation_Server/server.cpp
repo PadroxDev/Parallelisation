@@ -6,7 +6,7 @@
 
 using namespace std;
 
-const char* ADDR_IP = "192.168.1.33";
+const char* ADDR_IP = ""; // IP
 const int SERVER_PORT = 12345;
 
 class Papagnan {
